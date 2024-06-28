@@ -1,0 +1,14 @@
+.upps {
+	width: 130px;
+	height: 40px;
+	color: white;
+	background-color: blue;
+	border-radius: 10px;
+	border: none;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.upps:hover {
+	background-color: rgb(0, 0, 200);
+}
